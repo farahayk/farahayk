@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farahayk
 - 👀 I’m interested in UI/UX and Design
 - 🌱 I’m currently learning University of Jember
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on UI/UX for Web 
 - 📫 How to reach me farahayu10@gmail.com
 
 <!---
